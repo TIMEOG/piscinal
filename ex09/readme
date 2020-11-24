@@ -1,0 +1,15 @@
+
+1º offset
+2º type file
+3º valopr al que comparar
+4º mensage que tiene que mostrar
+
+echo -e "42\tstring\t42\t42 file"
+
+
+Is hubiera que compilarlo:
+
+file -C -m ft_magic
+
+-C es compilar
+-m es magic
